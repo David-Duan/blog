@@ -1,11 +1,3 @@
----
-title: "Git Commands"
-date: 2017-11-29T17:01:37+11:00
-draft: false
-tags: ["git"]
-categories: ["Developer"]
----
-
 # 1. git config
 Tell Git who you are
 ```shell
@@ -160,7 +152,7 @@ git stash clear
 
 # 18. git reset
 This usage of git reset is a simple way to undo changes that haven’t been shared with anyone else. It’s your go-to command when you’ve started working on a feature and find yourself thinking, “Oh crap, what am I doing? I should just start over.”
-!["git commands git reset before and after"](/post/images/git-commands-git-reset-before.png)
+!["git commands git reset before and after"](images/git-commands-git-reset-before.png)
 ```shell
 # discard all unstaged changes
 git reset --hard
@@ -177,7 +169,7 @@ You can also think of git revert as a tool for undoing committed changes, while 
 ```shell
 git revert HEAD~2
 ```
-!["git commands git revert before and after"](/post/images/git-commands-git-revert-before-after.svg)
+!["git commands git revert before and after"](images/git-commands-git-revert-before-after.svg)
 
 # 20 git cherry-pick
 Merging a specific commit from one branch to another.
