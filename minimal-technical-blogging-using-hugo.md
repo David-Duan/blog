@@ -1,9 +1,3 @@
----
-title: "Minimal Technical Blogging Using Hugo"
-date: 2017-10-30T19:52:37+11:00
-tags: [ "Hugo", "CentOS 7"]
-categories: ["Operation"]
----
 # Basically
 1. Focus on your content, using Markdown write your blog with Atom.
 2. Start Hugo server on local, check the layout is ok.
@@ -82,7 +76,7 @@ Now, the Hugo server has been stated with drafts enabled. You may start you jour
 
 ## Add new post
 Use Atom with package "platformio-ide-terminal".
-!["minimal-technical-blogging-using-hugo"](/post/images/minimal-technical-blogging-using-hugo-1.png)
+!["minimal-technical-blogging-using-hugo"](images/minimal-technical-blogging-using-hugo-1.png)
 
 Delete "draft: true" from the Front Matter, then
 ```shell
