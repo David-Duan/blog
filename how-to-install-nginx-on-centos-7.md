@@ -1,9 +1,3 @@
----
-title: "How to Install Nginx on CentOS 7"
-date: 2017-10-31T00:36:30+11:00
-tags: [ "CentOS 7", "Nginx"]
-categories: ["Operation"]
----
 **NGINX** short for Engine X.
 
 # My environment:
