@@ -1,10 +1,3 @@
----
-title: "Mariadb Sql Statements"
-date: 2018-02-07T12:32:30+11:00
-draft: false
-tags: ["database", "mariadb"]
-categories: ["DBA"]
----
 ```shell
 mysql
 mysql db_name
