@@ -1,10 +1,3 @@
----
-title: "Nvm Commands"
-date: 2018-02-07T15:42:57+11:00
-draft: false
-tags: ["nodejs", "nvm"]
-categories: ["Operation"]
----
 # nvm
 ```shell
 $ nvm [Tab]
