@@ -1,9 +1,3 @@
----
-title: "Linux Permission"
-date: 2017-11-02T16:04:31+11:00
-tags: [ "Linux"]
-categories: ["Operation"]
----
 # Permission Bits
 ```code
 +-----+---+--------------------------+
