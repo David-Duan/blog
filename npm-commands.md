@@ -1,10 +1,3 @@
----
-title: "Npm Commands"
-date: 2018-02-02T15:28:12+11:00
-draft: false
-tags: ["NPM", "nodejs"]
-categories: ["Operation"]
----
 # 1. npm -v
 Check the version of npm itself.
 ```shell
