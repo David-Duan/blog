@@ -1,9 +1,3 @@
----
-title: "Set a Static Ip Address in VMware Fusion 8"
-date: 2017-11-03T20:14:56+11:00
-tags: [ "Mac", "VMware Fusion 8"]
-categories: ["Operation"]
----
 # Environment
 + Mac Book
 + Host: VMware Fusion 8
@@ -18,7 +12,7 @@ Always got different IP address when come to office or back home.
 
 # Steps
 + 1.Shutdown the virtual mechine and copy its MAC address.
-![image1](/post/images/set-static-ip-address-in-vmware-fusion-8-1.png)
+![image1](images/set-static-ip-address-in-vmware-fusion-8-1.png)
 + 2.Modify dhcpd.conf
 ```shell
 sudo nano /Library/Preferences/VMware\ Fusion/vmnet8/dhcpd.conf
