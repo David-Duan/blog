@@ -1,14 +1,7 @@
----
-title: "Setup Virtual Host with Nginx"
-date: 2017-10-31T12:53:23+11:00
-tags: [ "CentOS 7", "Nginx"]
-categories: ["Operation"]
----
-
 Virtual Host, another name "server blocks" in Nginx docs.
 
 # Ready
-+ Nginx installed in CentOS 7, as [How to install Nginx on CentOS 7](/post/how-to-install-nginx-on-centos-7/)
++ Nginx installed in CentOS 7, as [How to install Nginx on CentOS 7](./how-to-install-nginx-on-centos-7/)
 
 # Steps
 + 1.You need 2 folders, one for virtual host configuration files, one for symlink of virtual host configuration files. Nginx configuration file should include the symlink from 2nd folders. So you can enable/disable any virtual host easily.
