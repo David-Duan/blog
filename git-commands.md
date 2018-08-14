@@ -1,10 +1,17 @@
+---
+title: "Git Commands"
+date: 2017-11-29T17:01:37+11:00
+draft: false
+tags: ["git"]
+categories: ["Developer"]
+---
 
 # 1. git config
 Tell Git who you are
 ```shell
 git config -l
 git config --global user.name "David Duan"
-git config --global user.email duanliwei.vita@gmail.com
+git config --global user.email david.duan@fabricgroup.com.au
 ```
 # 2. git init
 Create a new local repository
