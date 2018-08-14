@@ -1,10 +1,3 @@
----
-title: "Centos 7 Commands"
-date: 2017-10-31T14:00:01+11:00
-draft: false
-tags: [ "Linux", "CentOS 7"]
-categories: ["Operation"]
----
 # File
 ```shell
 #Copy file to remote server
